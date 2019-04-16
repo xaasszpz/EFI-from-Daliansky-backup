@@ -11,3 +11,5 @@
 - 10.14.2
 - 10.14.3
 - 10.14.4
+
+![Cover](https://github.com/williambj1/EFI-from-Daliansky-backup/blob/master/Cover.png)
